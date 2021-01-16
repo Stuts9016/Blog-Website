@@ -1,0 +1,69 @@
+/*CARDS*/
+
+.container-fluid {
+    /* background: rgb(182, 123, 182); */
+    background: rgba(111, 43, 143, 0.253);
+}
+
+.flex-column {
+    width: 450px;
+    margin-top: 10px;
+}
+
+img {
+    margin: 10px;
+}
+
+.scale {
+    transform: scaleY(1.05);
+    padding-top: 10px; 
+}
+
+#a1:hover{
+    transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(85, 11, 92, 0.2), 0 4px 8px rgba(0,0,0,.5);
+}
+
+/* .photo-gallery {
+    color:#313437;
+    background-color:#fff;
+  }
+  
+  .photo-gallery p {
+    color:#7d8285;
+  }
+  
+  .photo-gallery h2 {
+    font-weight:bold;
+    margin-bottom:40px;
+    padding-top:40px;
+    color:inherit;
+  }
+  
+  @media (max-width:767px) {
+    .photo-gallery h2 {
+      margin-bottom:25px;
+      padding-top:25px;
+      font-size:24px;
+    }
+  }
+  
+  .photo-gallery .intro {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto 40px;
+  }
+  
+  .photo-gallery .intro p {
+    margin-bottom:0;
+  }
+  
+  .photo-gallery .photos {
+    padding-bottom:20px;
+  }
+  
+  .photo-gallery .item {
+    padding-bottom:30px;
+  }
+  
+   */
